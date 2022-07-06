@@ -25,12 +25,6 @@
 
 <h3>For your PGM resizng needs 🖼⚒️</h3>
 
-<figure>
-  <img src= "images/apollonian.pgm" alt="pgm-resize Demo">
-  <br/>
-  <figcaption>pgm-resize screenshot</figcaption>
-</figure>
-
 </div>
 
 ## What is this
