@@ -1,3 +1,7 @@
 # Excluded files
 *.out
 *.exe
+pgm-resize
+
+# LSP
+.ccls-cache
