@@ -74,9 +74,9 @@ OUTPUT:
 
 Example:
 
-pgm-resize images/apollonian.pgm 240
+./pgm-resize images/apollonian.pgm 240
 # output: images/apollonian-resize.pgm with 240 width
-pgm-resize images/venus.pgm
+./pgm-resize images/venus.pgm
 # output: images/venus-resizw.pgm with width halved
 ```
 
