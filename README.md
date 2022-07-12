@@ -55,23 +55,7 @@ make
 
 ```bash
 USAGE:
-    pgm-resize path/to/image.pgm [WIDTH]
-
-OPTIONS:
-    WIDTH - Provide a custom output image width
-            Height is proportionately adjusted
-            (Halves original image width by default)
-
-OUTPUT:
-    The resized image will be placed in he same path
-    as the original image with a '-resize' added
-
-Example:
-
-./pgm-resize images/apollonian.pgm 240
-# output: images/apollonian-resize.pgm with 240 width
-./pgm-resize images/venus.pgm
-# output: images/venus-resizw.pgm with width halved
+    cat image.pgm | ./pgm-resize
 ```
 
 ## How it was built
