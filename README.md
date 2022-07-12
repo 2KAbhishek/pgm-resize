@@ -74,6 +74,8 @@ Example:
 # output: images/venus-resizw.pgm with width halved
 ```
 
+For alternate implementation with pipe operations, see [alt branch](https://github.com/2kabhishek/pgm-resize/tree/alt).
+
 ## How it was built
 
 pgm-resize was built using `neovim`, 'gcc', 'make'
